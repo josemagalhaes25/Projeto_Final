@@ -1,0 +1,7 @@
+names:
+- trees
+nc: 1
+
+train: C:/Users/Utilizador/Desktop/yolov8/datasets/combined_dataset/train/images
+val: C:/Users/Utilizador/Desktop/yolov8/datasets/combined_dataset/valid/images
+test: C:/Users/Utilizador/Desktop/yolov8/datasets/combined_dataset/test/images

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['olivier']
+
+roboflow:
+  workspace: olivier
+  project: olivier_new_seg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/olivier/olivier_new_seg/dataset/1
