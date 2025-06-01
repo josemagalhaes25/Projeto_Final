@@ -4,4 +4,4 @@ val: valid/images
 test: test/images
 
 nc: 1
-names: ['oliver_trees']
+names: ['tree']
